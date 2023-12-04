@@ -3,6 +3,7 @@
 * Black panther
 * Black Widow
 * Capitán America
+* Cap Marvel no es un avenger
 * Falcon
 * Hank Pym
 * Hawkeye
